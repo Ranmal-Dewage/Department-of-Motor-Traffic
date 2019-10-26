@@ -102,8 +102,16 @@ Figure_5: home screen
 	> go to /target/
 	> java -jar uee-user-backend-0.0.1-SNAPSHOT.jar
 ```
+
+#### Developed by Team VIKING RAIDERS;
+* Ranmal Dewage
+* Tenusha Guruge
+* Vimukthi Rajapaksha
+* Aravinda Kulasooriya
+
+
 ## Copyright
 
-(C) 2019 Tenusha Guruge
+(C) 2019 Ranmal Dewage (ranmal.b.dewage@gmail.com)
 <br>
-[tenusha.wordpress.com](https://tenusha.wordpress.com)
+[ranmaldewage.wordpress.com](https://ranmaldewage.wordpress.com)
