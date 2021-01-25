@@ -46,7 +46,7 @@ Once user enters the valid vehicle number, it displays the vehicle details of th
 <p></p><br />
 
 <img src="https://i.ibb.co/CQ9SrPN/vd.png" alt="Capture27" border="0" width="30%">
-Figure_5: home screen
+Figure_5:vehicle details
 <p></p><br />
 
 ### 5) Fine Management 
@@ -55,7 +55,7 @@ User can Pay the Fines Online by clicking the “PAY” button for the Fines wit
 <p></p><br />
 
 <img src="https://i.ibb.co/Ch0Cvr6/fm.png" alt="Capture27" border="0">
-Figure_5: home screen
+Figure_5: fine management
 <p></p><br />
 
 ### 6) Ongoing Numbers
@@ -64,7 +64,7 @@ Users can view the current onging number of the each vehicle category.
 <p></p><br />
 
 <img src="https://i.ibb.co/rQHvVBZ/on.png" alt="Capture27" border="0" width="30%">
-Figure_5: home screen
+Figure_5: ongoing numbers
 <p></p><br />
 
 ## Limitations
