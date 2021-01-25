@@ -31,7 +31,7 @@ Once user enter the valid vehicle number, it displays the license details of the
 Figure_3: revenue license status
 <p></p><br />
 
-### 3)  My vehicles 
+### 3)  My Vehicles 
 
 User can add new vehicle to his/her account by providing the “Vehicle Number”. Then users can track their vehicles. A colour schema is used to track fines (per week) for that vehicle (eg: green - no fines, orange - less than 3, red - more than 3)
 <p></p><br />
@@ -46,7 +46,7 @@ Once user enters the valid vehicle number, it displays the vehicle details of th
 <p></p><br />
 
 <img src="https://i.ibb.co/CQ9SrPN/vd.png" alt="Capture27" border="0" width="30%">
-Figure_5:vehicle details
+Figure_5: vehicle details
 <p></p><br />
 
 ### 5) Fine Management 
