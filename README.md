@@ -8,7 +8,7 @@ The app is developed using React Native, NodeJs, Java Spring Boot and MongoDB.
 <p></p><br />
 
 <img src="https://i.ibb.co/7CK5WXz/home.png" alt="Capture27" border="0" width="30%">
-Figure_1: home screen
+Figure 1: home screen
 <p></p><br />
 
 ## Features of the application
@@ -19,7 +19,7 @@ If user is a new to DMT, he/she can regiter to the app or simply login to the sy
 <p></p><br />
 
 <img src="https://i.ibb.co/KDTFwPq/login-reg.png" alt="Capture27" border="0" width="50%">
-Figure_2: login and registration
+Figure 2: login and registration
 <p></p><br />
 
 ### 2) Revenue License Status 
@@ -28,7 +28,7 @@ Once user enter the valid vehicle number, it displays the license details of the
 <p></p><br />
 
 <img src="https://i.ibb.co/nn914Q1/rls.png" alt="Capture27" border="0" width="30%">
-Figure_3: revenue license status
+Figure 3: revenue license status
 <p></p><br />
 
 ### 3)  My Vehicles 
@@ -37,7 +37,7 @@ User can add new vehicle to his/her account by providing the “Vehicle Number�
 <p></p><br />
 
 <img src="https://i.ibb.co/Cb35xR3/vm.png" alt="Capture27" border="0">
-Figure_4: my vehicle management
+Figure 4: my vehicle management
 <p></p><br />
 
 ### 4) Vehicle Details 
@@ -46,7 +46,7 @@ Once user enters the valid vehicle number, it displays the vehicle details of th
 <p></p><br />
 
 <img src="https://i.ibb.co/CQ9SrPN/vd.png" alt="Capture27" border="0" width="30%">
-Figure_5: vehicle details
+Figure 5: vehicle details
 <p></p><br />
 
 ### 5) Fine Management 
@@ -55,7 +55,7 @@ User can Pay the Fines Online by clicking the “PAY” button for the Fines wit
 <p></p><br />
 
 <img src="https://i.ibb.co/Ch0Cvr6/fm.png" alt="Capture27" border="0">
-Figure_5: fine management
+Figure 6: fine management
 <p></p><br />
 
 ### 6) Ongoing Numbers
@@ -64,7 +64,7 @@ Users can view the current onging number of the each vehicle category.
 <p></p><br />
 
 <img src="https://i.ibb.co/rQHvVBZ/on.png" alt="Capture27" border="0" width="30%">
-Figure_5: ongoing numbers
+Figure 7: ongoing numbers
 <p></p><br />
 
 ## Limitations
